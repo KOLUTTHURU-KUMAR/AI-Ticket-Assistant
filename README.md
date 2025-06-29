@@ -203,12 +203,7 @@ A smart ticket management system that uses AI to automatically categorize, prior
 - `inngest`: ^3.35.0
 - `jsonwebtoken`: ^9.0.2
 - `mongoose`: ^8.13.2
-- `nodemailer`: ^6.10.1
-
-## 🤝 Contributing
-
-we don't accept contributions for this project, as this is a part of a video and code files needs to given as it is.
-
+- `nodemailer`: ^6.10.1  
 ## 🙏 Acknowledgments
 
 - Inngest for background job processing
